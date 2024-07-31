@@ -1,4 +1,11 @@
 ## Hi there 👋
+Meu nome é Fernanda Cristina
+Estou me desenvolvendo em programas de linguagem JavaScript
+Estou estudando Tecnologia 
+
+
+
+
 
 <!--
 **fef11s/fef11s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
