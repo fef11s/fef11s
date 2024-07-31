@@ -1,8 +1,8 @@
 ## Hi there 👋
 Meu nome é Fernanda Cristina
 Estou me desenvolvendo em programas de linguagem JavaScript
-Estou estudando Tecnologia 
-
+Estou estudando Tecnologia
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN0cjVkN3hyc2lld2t3cnpna2tjc2EzMmJjZ202a24yMjBmYm5uMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif)
 
 
 
